@@ -16,3 +16,8 @@ img {
   width: 125px;
   height: 125px;
 }
+
+iframe {
+display:block;
+ align:center;
+}
