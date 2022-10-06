@@ -19,5 +19,5 @@ img {
 
 iframe {
 display:block;
- align:center;
+ float:center;
 }
