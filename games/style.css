@@ -1,13 +1,14 @@
  body {
-background-color:#14c2f7;
-
+background-color:#6699ff;
 border: 10px solid #737373;
 filter: contrast(130%);
 font-family: trebuchet ms, arial;
 }
 h1{
-  color:#
   border: 5px solid #000000;
+ color: #FFFFFF;
+background: #b8b8b8;
+text-shadow: 4px 3px 0 #7A7A7A;
 }
 
 img {
@@ -24,4 +25,9 @@ display:block;
 
 .games-div{
 align: center;
+}
+p{
+color: #FFFFFF;
+background: #b8b8b8;
+text-shadow: 4px 3px 0 #7A7A7A;
 }
