@@ -19,5 +19,11 @@ img {
 
 game-frame {
 display:block;
- float:center;
+ align:center;
+ display: flex;
+
+}
+
+games-div{
+justify-content: center;
 }
