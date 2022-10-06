@@ -1,14 +1,12 @@
  body {
-background-image: url("../images/bg.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+background-color:#14c2f7;
+
 border: 10px solid #737373;
 filter: contrast(130%);
 font-family: trebuchet ms, arial;
 }
 h1{
-  color:#362120
+  color:#
   border: 5px solid #000000;
 }
 
@@ -25,5 +23,5 @@ display:block;
 }
 
 .games-div{
-justify-content: center;
+align: center;
 }
