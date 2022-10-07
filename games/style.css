@@ -17,12 +17,18 @@ padding: 3px;
 
 img {
   width: 125px;
-  height: 125px;
+  height: 125px:
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+width: 50%;
 }
 
 iframe{
-  margin: auto;
-  border-radius: 5px;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 
