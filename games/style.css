@@ -20,16 +20,13 @@ img {
   height: 125px;
 }
 
-game-frame {
-display:block;
- align:center;
- display: flex;
-
+iframe{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 5px;
 }
 
-div {
-align: center;
-}
 
 p{
 color: #FFFFFF;
