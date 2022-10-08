@@ -18,7 +18,12 @@ padding: 3px;
 img {
 width: 125px;
 height: 125px:
-margin: auto;
+}
+
+thebruh {
+ width: 125px;
+ height: 125px:
+	 
 }
 
 game-frame {
@@ -26,7 +31,7 @@ game-frame {
     align-items: center;
     justify-content: center;
 }
-}
+
 
 
 p{
