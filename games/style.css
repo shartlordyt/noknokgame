@@ -1,6 +1,7 @@
  body {
 background-color:#6699ff;
 border: 10px solid #737373:
+ filter: contrast(130%);
 font-family: trebuchet ms, arial;
     
 }
@@ -17,6 +18,7 @@ padding: 3px;
 img {
 width: 125px;
 height: 125px:
+filter: contrast(100%);
 }
 
 
