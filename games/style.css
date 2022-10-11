@@ -1,6 +1,10 @@
  body {
-background-color:#6699ff;
-border: 10px solid #737373:
+  background: url(images/bg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+border: 7px solid #737373:
 filter: contrast(130%);
 font-family: trebuchet ms, arial;
     
