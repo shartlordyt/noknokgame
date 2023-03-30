@@ -24,8 +24,10 @@ width: 125px;
 height: 125px:
 }
 
-
-
+a {
+ font-size: 30px;
+  margin: auto;
+}
 
 p{
 color: #FFFFFF;
