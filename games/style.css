@@ -24,8 +24,12 @@ width: 125px;
 height: 125px:
 }
 
-
-
+a {
+ font-size: 40px;
+ display: block;
+ color: #FFFFFF;
+text-shadow: 4px 3px 0 #7A7A7A;
+}
 
 p{
 color: #FFFFFF;
